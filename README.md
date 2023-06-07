@@ -2,8 +2,8 @@
 
 ### Datasets
 
-1. One
-2. Two
+1. **data_eu** - full dataset of samples from Amesbury et al., 2016
+2. **complexes** - species lumped into complexes with a scale for each complex
 
 ### How to use:
 
@@ -15,7 +15,7 @@ How to install and use my package:
 # install.packages("remotes")
 remotes::install_github("eaermolaeva/amoebatech")
 
-#-------------------------------------------------------------------------------
+#------------------------------------------------
 # load the package
 library(amoebatech)
 
@@ -30,7 +30,7 @@ complexes <- complexes
 ?data_eu
 ?complexes
 
-#-------------------------------------------------------------------------------
+#------------------------------------------------
 # explore the data_eu dataset
 library(tidyverse)
 data_eu %>%
