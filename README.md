@@ -1,9 +1,8 @@
-### What it can do
-
 ### Datasets
 
 1. **data_eu** - full dataset of samples from Amesbury et al., 2016
 2. **complexes** - species lumped into complexes with a scale for each complex
+3. **traita** - *to be added later*
 
 ### How to use:
 
